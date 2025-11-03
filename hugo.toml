@@ -1,0 +1,4 @@
+baseURL = 'https://devalido.github.io/kiosque/'
+theme = 'papermode'
+languageCode = "fr-fr"
+title = "La dévalidothèque en ligne"
