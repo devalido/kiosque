@@ -1,0 +1,33 @@
+  <main class="content">
+    <article class="post">
+      <div class="hero">
+        <img class="img center" src="/images/photo.jpg" alt="Description de l'image">
+      </div>
+      <h1>Mon titre</h1>
+      <p class="meta">Publié le 3 novembre 2025</p>
+      <p>La dévalidothèque en ligne</p>
+      <a class="btn" href="#">Action</a>
+    </article>
+
+    <section style="margin-top:1.25rem;">
+      <div class="grid">
+        <div class="card">
+          <img class="img" src="/images/thumb1.jpg" alt="Vignette 1">
+          <div class="card-body">
+            <h3>Article 1</h3>
+            <p>Brève description.</p>
+          </div>
+        </div>
+        <div class="card">
+          <img class="img" src="/images/thumb2.jpg" alt="Vignette 2">
+          <div class="card-body">
+            <h3>Article 2</h3>
+            <p>Brève description.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">© 2025 — Votre nom</footer>
+</div>
